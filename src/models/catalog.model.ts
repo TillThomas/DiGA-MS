@@ -1,4 +1,4 @@
-export interface Weather {
+export interface CatalogEntry {
   resourceType: string;
   id: string;
   meta: Meta;
